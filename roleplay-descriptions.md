@@ -1,6 +1,6 @@
 These role-playing scenarios are designed to help students practice their communication skills. They have been taken from the book "ESL Role Plays: 50 Engaging Role Plays for ESL and EFL Classes" by Larry Pitts (2015, ECQ Publishing, ISBN: 9781942116073). The book contains many more scenarios, but only a few have been selected for this dataset. 
 
-In the following, the scenarios are briefly described, and the role cards for each scenario are provided. The numbers in the titles match the numbers in the book.
+In the following, the scenarios are briefly described, and the role cards for each scenario are provided. The numbers in the titles match the page numbers in the book.
 
 # 20 Camping
 
