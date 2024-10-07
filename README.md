@@ -37,7 +37,7 @@ Each file is named following this structure:
 The role-playing activities are documented in detail in the file `roleplay-descriptions.md`, providing context for the different scenarios and instructions followed by the participants.
 
 ## Citation
-If you use this dataset in your research, please cite the following paper:
+If you use this dataset in your research, please cite the following paper in addition to this repository:
 
 ```bibtex
 @inproceedings{demint2024,
