@@ -36,6 +36,10 @@ Each file is named following this structure:
 
 The role-playing activities are documented in detail in the file `roleplay-descriptions.md`, providing context for the different scenarios and instructions followed by the participants.
 
+## Licenses
+
+See the file [LICENSE.md](./LICENSE.md) for additional details on the licenses of the dataset.
+
 ## Citation
 If you use this dataset in your research, please cite the following paper in addition to this repository:
 
