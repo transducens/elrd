@@ -12,13 +12,13 @@ To facilitate this evaluation, fifteen video calls of around 10 minutes each wer
 
 ## Dataset Content
 
-### 1. Audio Recordings
+### Audio Recordings
 
 - Folder: `audios/`
 - This folder contains the audio recordings of the video calls in `.wav` format.
 - Each file is named according to the role-playing scenario and the participants involved. For example, `meeting-camping-dm01-dm04-dm05.wav` refers to a meeting in which three speakers (dm01, dm04, and dm05) participated, playing the "camping" role-playing game.
 
-### 2. Diarized Transcripts
+### Diarized Transcripts
 
 - Folder: `diarized_transcripts/`
 - This folder contains the diarized transcripts in `.jsonl` format, where each transcript is segmented according to the speaker.
